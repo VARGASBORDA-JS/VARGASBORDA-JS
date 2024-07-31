@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy JUAN SEBATIAN 👋</h1>
 </div>
-<img src="[https://imgur.com/gallery/ruined-pier-sketch-gqgozfJ#/t/art](https://www.pexels.com/es-es/foto/madera-paisaje-naturaleza-cielo-27300937/)">
+<img src="https://photos.google.com/u/1/photo/AF1QipP5oPjFCXt_StsOdtxlH2Hm2LlwGlYiqGHQoBTR?hl=es">
+
 
 
 ## Sobre mi
