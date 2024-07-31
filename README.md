@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy JUAN SEBATIAN 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://imgur.com/gallery/ruined-pier-sketch-gqgozfJ#/t/art">
 
 
 ## Sobre mi
