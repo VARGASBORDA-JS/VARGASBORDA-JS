@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy JUAN SEBATIAN 👋</h1>
 </div>
-<img src="[https://imgur.com/gallery/does-look-soft-p0ZHthW](https://imgur.com/gallery/yup-rzg0tJp).png">
+<img src="https://imgur.com/gallery/yup-rzg0tJp.png">
 
 
 
