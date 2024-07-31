@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy JUAN SEBATIAN 👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_mecatr%C3%B3nica)">
+<img src="https://i.imgur.com/weNbhGZ.png">
 
 
 ## Sobre mi
